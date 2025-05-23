@@ -2,6 +2,12 @@
 
 This repository documents a hands-on industry lab completed in partnership with Verizon's Cloud Platform team. The lab involved testing a new enterprise VPN service, **Sasha**, for cloud-native traits and delivering application and network security recommendations.
 
+### Certificate of Completion  
+Issued by **Verizon via Forage**  
+[📄 View Certificate (PDF)](https://github.com/YeranG30/verizon-cloud-security-lab/blob/main/Verizon_Cloud_Security_Lab.pdf)
+
+
+
 ## Overview
 
 As an Industry Lab Participant, I collaborated with senior cloud engineers to:
